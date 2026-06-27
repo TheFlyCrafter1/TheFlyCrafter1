@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TheFlyCrafter
+- 👋 Hi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me info.theflycrafter@gmail.com
+
 
 <!---
 TheFlyCrafter1/TheFlyCrafter1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
